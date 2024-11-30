@@ -39,6 +39,9 @@ I'm diving into open-source with a focus on:
 - **C++/DSA**: Solving challenging problems and optimizing algorithms.
 
 ---
+## 🛠️ Languages Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avreetkaur84&layout=compact&theme=radical)
+
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=avreetkaur84&theme=radical&hide_border=true)  
