@@ -1,93 +1,60 @@
-# 👋 Hey there! I'm Avreet Kaur
+## Avreet Kaur
 
-## 🎓 3rd Year Computer Science Engineering Student | 💻 Full-Stack Dev (MERN + Next.js) | 🤖 AI/ML Enthusiast | ⚙️ DSA Addict (C++)  
-## On a mission to build meaningful, scalable, and intelligent solutions — while prepping for the big leagues: **MANG** 🚀
----
+Computer Science Engineering Undergraduate <br/>
+Software Engineering | Full-Stack Systems | Applied Machine Learning <br/>
+Chandigarh, India
 
-## 🧠 Who Am I?
+I build production-oriented software systems and applied ML solutions with a strong focus on fundamentals: data structures, algorithms, clean architecture, and scalability.
+Currently preparing for software engineering roles with an emphasis on problem-solving and system design.
 
-A builder. A learner. A dreamer who codes.  
-From architecting full-stack platforms to exploring AI’s role in **mental health**, I'm passionate about using tech to make life a little easier and a lot more impactful.
+## Core Focus Areas
 
-When I'm not debugging or devouring DSA problems, you’ll probably find me diving into psychology, spirituality, or classic novels.
+* Data Structures and Algorithms (C++)
+* Backend and Full-Stack System Design
+* Scalable Web Applications
+* Applied Machine Learning (NLP-focused)
 
----
+## Technical Stack
 
-## 🛠️ Tech Stack
+**Languages**
+C++, JavaScript, Python, Java
 
-### 💬 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Backend and Web**
+React, Next.js, Node.js, Express, REST APIs
 
-### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+**Data**
+PostgreSQL, MongoDB, Prisma, Supabase
 
-### 🛢️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+**ML**
+NLP, Feature Engineering, Classical ML Models
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+**Developer Tools**
+Git, GitHub, Postman, Vercel, VS Code
 
----
+## Selected Work
 
-## 🚀 Currently Building
+**WellNest**
+Mental wellness web platform built with a modular React frontend and RESTful backend using PostgreSQL.
 
-- 🧠 Mental Health Chatbot (Sentiment Analysis + NLP)
-- 📊 IPL Insights Dashboard (PostgreSQL + ETL + Analytics)
-- 🛡️ Legal AI Assistant to simplify the Indian Constitution
-- 🌐 Personal Portfolio (Next.js + Tailwind CSS)
+**Transcript-Based Mental Health Screening**
+NLP-based ML system for anxiety risk assessment. Research paper accepted at IEEE UPIWECON 2025.
 
----
+## Problem Solving
 
-## 💡 Interests
+* 750+ DSA problems solved across platforms
+* Strong focus on algorithmic thinking and optimization
 
-- 🤖 AI for Social Good (Mental Health, Law Awareness)
-- 💻 Problem Solving (C++, LeetCode, Codeforces)
-- 📚 Deep-Dive Reads (Novels, Psychology, Non-fiction)
-- 🧘‍♀️ Spirituality, Self-discipline & Personal Growth
-- 🏍️ Motorsports, Taekwondo (for future Avreet 2.0)
+LeetCode: [https://leetcode.com/u/Avreet_Kaur/](https://leetcode.com/u/Avreet_Kaur/)  <br/>
+Codeforces: [https://codeforces.com/profile/avreet_kaur](https://codeforces.com/profile/avreet_kaur) <br/>
+Codolio: [https://codolio.com/profile/avreet_kaur](https://codolio.com/profile/avreet_kaur) <br/>
 
----
+## Research and Recognition
 
-## 📈 GitHub Stats
+* Research paper accepted at **IEEE UPIWECON 2025** (AI for Mental Health)
+* Co-inventor on a published patent involving embedded ML and conversational AI
+* Intel Future AI Workforce Training Program
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=avreetkaur84&theme=radical&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avreetkaur84&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avreetkaur84&layout=compact&theme=radical)
+## Contact
 
----
-
-## 🌱 Learning & Growing
-
-- Mastering DSA & System Design for interviews
-- Deepening Next.js and JavaScript fluency
-- Exploring AI/ML use cases beyond just hype
-- Building consistent habits and discipline 💪
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avreet-kaur-38599727b/)  
-[![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Avreet__Kaur)
-
----
-
-## ✨ Let’s Collaborate!
-
-Whether it’s building cool AI tools, full-stack projects, or just vibing on personal growth & productivity — I’m always up for a good discussion.  
-Let’s make tech human again ❤️
-
-> *"Discipline beats motivation. Consistency beats perfection."*
-
----
+LinkedIn: [https://www.linkedin.com/in/avreet-kaur/](https://www.linkedin.com/in/avreet-kaur/)  <br/>
+Email: [avreetkaur084@gmail.com](mailto:avreetkaur084@gmail.com)  <br/>
